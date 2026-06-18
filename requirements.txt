@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+torch
+
+# 아래는 conda로 설치 (pip 단독 설치 불가, OpenMMLab 공식 설치 절차 필요)
+# mmengine
+# mmcv
+# mmpose
+# 본 프로젝트는 conda env "mmpose" 위에서 실행됨 (RTMPose 체크포인트 포함)
